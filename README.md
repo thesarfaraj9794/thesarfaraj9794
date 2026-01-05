@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Sarfaraj Alam
-**A passionate Sftware Engineer || Flutter App Developer || from India**
+**A passionate Software Engineer || Flutter App Developer || from India**
 
 Email Me 👉 ✉️ **sarfarajbabu748@gmail.com** For Collaboration/Application or web app. 😊😊
 
