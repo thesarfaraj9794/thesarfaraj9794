@@ -1,13 +1,13 @@
 # 💫 Hi 👋, I'm Sarfaraj Alam
-**A passionate Software Engineer || Flutter App Developer || from India**
+**A passionate Software Engineer || Flutter App Developer Android/IOS Developer || from India**
 
-Email Me 👉 ✉️ **sarfarajbabu748@gmail.com** For Collaboration/Application or web app. 😊😊
+Email Me 👉 ✉️ **sarfarajbabu748@gmail.com** For Collaboration/ Mobile Application Android/IOS or web app. 😊😊
 
-- 🔭 **I’m currently working on:** Village Bazaar
-- 🌱 **I’m currently learning:** Dart, Flutter,Google Play console
+- 🔭 **I’m currently working on:** Last Minutes Deals
+- 🌱 **I’m currently learning:** Dart, Flutter,Shorebird,Flurite,Appstore
 - 👯 **I’m looking to collaborate on:** Sarfi Bazaar
 - 🤔 **I’m looking for help with:** AR based restaurants app
-- 💬 **Ask me about:** Flutter ,Firebases
+- 💬 **Ask me about:** Flutter,Firebases,Shorebird,Flurite,API
 - 📫 **How to reach me:** sarfarajbabu748@gmail.com
 - 😄 **Pronouns:** Sarfaraj
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
