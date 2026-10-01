@@ -1,286 +1,392 @@
-Bilkul bhai. **Direct copy-paste `README.md` code** de raha hoon. GitHub profile repo `thesarfaraj9794/thesarfaraj9794` ke `README.md` me pura replace karke paste kar do.
-
-````markdown
 <div align="center">
 
-# 👋 Hey, I'm Sarfaraz Alam
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,50:0B1228,100:111827&text=SARFARAZ%20ALAM&fontColor=00E5FF&fontSize=48&fontAlignY=40&desc=Flutter%20Developer%20%7C%20Mobile%20App%20Developer&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=Flutter+Developer;Mobile+App+Developer;Android+%7C+iOS+%7C+Web;Firebase+%7C+Supabase+%7C+REST+APIs;Building+Beautiful+%26+Scalable+Apps" />
+<br>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Flutter+Developer+%F0%9F%9A%80;Android+%7C+iOS+%7C+Web+Developer;Building+Modern+Mobile+Experiences;Firebase+%7C+Supabase+%7C+REST+APIs;Turning+Ideas+Into+Real+Products" />
 
-<img src="https://komarev.com/ghpvc/?username=thesarfaraj9794&label=Profile%20Views&color=00e5ff&style=for-the-badge" />
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=thesarfaraj9794&label=PROFILE+VIEWS&color=00E5FF&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+<div align="center">
 
-```dart
-class SarfarazAlam {
-  final String role = "Flutter Developer";
-  final String location = "India";
+## ✦ ABOUT ME
 
-  final List<String> platforms = [
-    "Android",
-    "iOS",
-    "Web",
-  ];
+</div>
 
-  final List<String> interests = [
-    "Mobile App Development",
-    "Clean UI/UX",
-    "Firebase",
-    "REST APIs",
-    "Scalable Applications",
-    "Open Source",
-  ];
+<p align="center">
+  <b>Flutter Developer</b> passionate about creating modern, scalable and beautiful digital experiences.
+</p>
 
-  String currentFocus() {
-    return "Building modern Flutter applications 🚀";
-  }
-}
-````
+<p align="center">
+I build cross-platform applications for <b>Android, iOS & Web</b> with a strong focus on clean UI,
+smooth interactions, reliable backend integration and real-world usability.
+</p>
 
-I am a **Flutter Developer** focused on building modern, responsive and scalable applications for **Android, iOS and Web**.
+<br>
 
-I enjoy turning ideas into real products with clean architecture, smooth animations, powerful backend integrations and user-friendly interfaces.
+<div align="center">
+
+🌍 India &nbsp;&nbsp; • &nbsp;&nbsp;
+📱 Flutter Developer &nbsp;&nbsp; • &nbsp;&nbsp;
+🚀 Product Builder &nbsp;&nbsp; • &nbsp;&nbsp;
+💡 Open Source Enthusiast
+
+</div>
 
 ---
 
-## 🧑‍💻 Tech Stack
+<div align="center">
 
-### 📱 Mobile & Frontend
+## ✦ WHAT I DO
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+### 📱
+### Mobile Apps
+
+Flutter applications for  
+Android & iOS with  
+modern responsive UI.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🎨
+### UI / UX
+
+Clean interfaces,  
+animations, Material 3  
+and responsive layouts.
+
+</td>
+
+<td align="center" width="25%">
+
+### ☁️
+### Backend
+
+Firebase, Supabase,  
+Firestore, Authentication  
+and cloud services.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔗
+### API Integration
+
+REST APIs, JSON,  
+notifications and  
+third-party services.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## ✦ TECHNOLOGY STACK
+
+### Mobile & Development
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,vscode&theme=dark" />
+
+<br><br>
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=firebase,supabase,mongodb,mysql&theme=dark" />
+
+<br><br>
+
+### Tools & Design
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,postman,aws&theme=dark" />
+
+</div>
+
+---
+
+<div align="center">
+
+## ✦ FEATURED PROJECTS
+
+</div>
+
+<table align="center">
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🧠 BrainBoost</h3>
+
+<p align="center">
+<b>Offline Education Application</b>
+</p>
+
+<p align="center">
+An educational Flutter application designed for students with offline learning, lessons and MCQ-based practice.
+</p>
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,figma,html,css" />
+`Flutter` `Dart` `Offline`
 
 </p>
 
-### 🔥 Backend & Database
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🏥 Restore Health Services</h3>
+
+<p align="center">
+<b>Healthcare Marketplace</b>
+</p>
+
+<p align="center">
+A healthcare platform connecting users with medicines, blood tests, doctor consultation and health services.
+</p>
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=firebase,supabase,mongodb,mysql" />
+`Flutter` `Firebase` `Provider` `REST API`
 
 </p>
 
-### 🛠️ Tools & Technologies
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🚗 Sampark</h3>
+
+<p align="center">
+<b>QR Vehicle Communication</b>
+</p>
+
+<p align="center">
+A smart QR-based communication platform designed to help people contact vehicle owners while keeping personal information private.
+</p>
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,aws" />
+`Flutter` `QR` `Supabase` `Firebase`
 
 </p>
 
----
+</td>
 
-## ⚡ What I Work With
+<td width="50%" valign="top">
 
-| Area                | Technologies                          |
-| ------------------- | ------------------------------------- |
-| 📱 App Development  | Flutter, Dart                         |
-| 🎨 UI/UX            | Material 3, Responsive UI, Animations |
-| 🔐 Authentication   | Firebase Auth                         |
-| ☁️ Backend          | Firebase, Supabase                    |
-| 🗄️ Database        | Firestore, Hive, SharedPreferences    |
-| 🌐 APIs             | REST API, JSON                        |
-| 🔔 Notifications    | Firebase Cloud Messaging              |
-| 🧠 State Management | Provider                              |
-| 🌍 Platforms        | Android, iOS, Web                     |
-| 🚀 Deployment       | Play Store, App Stores, Web           |
+<h3 align="center">🛣️ RoadPulse</h3>
 
----
+<p align="center">
+<b>Smart Road Safety Platform</b>
+</p>
 
-# 🔥 Featured Projects
+<p align="center">
+A road condition and safety platform for reporting potholes, speed breakers and other road hazards.
+</p>
 
-## 🧠 BrainBoost
+<p align="center">
 
-> Offline educational learning application for students.
+`Flutter` `Maps` `Location` `Dashboard`
 
-**Features**
+</p>
 
-* 📚 Class 1–6 educational content
-* 📝 MCQ based learning
-* 📖 Reading lessons
-* ⚡ Offline-first experience
-* 📱 Flutter Android application
+</td>
 
----
+</tr>
 
-## 🏥 Restore Health Services
+<tr>
 
-> Health marketplace and healthcare service application.
+<td width="50%" valign="top">
 
-**Technologies**
+<h3 align="center">🔗 TapLatch</h3>
 
-`Flutter` `Provider` `Firebase` `REST API` `Firestore`
+<p align="center">
+<b>Flutter Package</b>
+</p>
 
-**Features**
+<p align="center">
+A lightweight Flutter package designed to prevent accidental repeated button taps with loading, success and cooldown states.
+</p>
 
-* 🩺 Online doctor consultation
-* 💊 Online medicine
-* 🧪 Blood test booking
-* 🔔 Push notifications
-* 👤 Authentication
-* 📊 Healthcare services
-* 🌐 Web + Mobile experience
+<p align="center">
 
----
+`Flutter` `Dart` `Package`
 
-## 🚗 Sampark
+</p>
 
-> QR-based vehicle communication platform.
+</td>
 
-**Concept**
+<td width="50%" valign="top">
 
-A vehicle QR system that allows people to communicate with vehicle owners without directly revealing personal information.
+<h3 align="center">⚡ More Projects</h3>
 
-**Features**
+<p align="center">
+Always experimenting with new ideas, products and developer tools.
+</p>
 
-* 🔳 QR vehicle stickers
-* 🚗 Vehicle identification
-* 📞 Emergency communication
-* 🅿️ Parking communication
-* 🛡️ Privacy-focused contact
-* 📱 Flutter application
+<p align="center">
+
+🚀 Build  
+<br>
+🧪 Experiment  
+<br>
+✨ Improve
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
 
 ---
-
-## 🛣️ RoadPulse / MargRakshak
-
-> Smart road condition and road safety platform.
-
-**Concept**
-
-A modern platform for reporting and tracking road conditions, potholes and speed breakers.
-
-**Features**
-
-* 🛣️ Road condition reporting
-* ⚠️ Hazard detection
-* 🚧 Speed breaker information
-* 📍 Location-based reports
-* 👨‍💻 Admin/PWD workflow
-* 📊 Road safety dashboard
-
----
-
-## 🔗 TapLatch
-
-> A Flutter package designed to prevent accidental repeated button taps.
-
-**Features**
-
-* ⚡ Async action handling
-* 🔄 Loading state
-* ✅ Success state
-* ❌ Error handling
-* ⏱️ Cooldown support
-* 🎨 Custom styling
-
-[![Pub.dev](https://img.shields.io/badge/Pub.dev-TapLatch-0175C2?style=for-the-badge\&logo=dart)](https://pub.dev/packages/taplatch)
-
----
-
-# 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thesarfaraj9794&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+## ✦ GITHUB ACTIVITY
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesarfaraj9794&layout=compact&theme=tokyonight&hide_border=true" />
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=thesarfaraj9794&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=7C3AED&text_color=FFFFFF&rank_icon=github" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesarfaraj9794&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=FFFFFF" width="42%"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=thesarfaraj9794&theme=tokyonight&hide_border=true&background=050816&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF" width="70%"/>
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
-
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=thesarfaraj9794&theme=tokyonight&hide_border=true" />
+## ✦ CONTRIBUTION JOURNEY
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thesarfaraj9794&bg_color=050816&color=00E5FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+<div align="center">
+
+## ✦ CURRENTLY FOCUSING ON
+
+</div>
+
+<table align="center">
+<tr>
+<td>
+
+🚀 Advanced Flutter Architecture
+
+</td>
+<td>
+
+🔥 Firebase & Cloud Integration
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+🌐 Flutter Web Applications
+
+</td>
+<td>
+
+📦 Open Source Packages
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+🎨 Premium UI/UX
+
+</td>
+<td>
+
+⚡ Performance Optimization
+
+</td>
+</tr>
+</table>
+
+---
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/thesarfaraj9794/thesarfaraj9794/output/github-contribution-grid-snake-dark.svg" />
+## ✦ 2026 GOALS
+
+<br>
+
+🚀 Build production-ready applications  
+<br>
+📦 Publish useful Flutter packages  
+<br>
+🌎 Contribute to open-source projects  
+<br>
+🧠 Master advanced Flutter & Dart  
+<br>
+☁️ Build scalable cloud-based systems  
+<br>
+💡 Turn more ideas into real products
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thesarfaraj9794&theme=tokyo-night&hide_border=true" />
+## ✦ CONNECT WITH ME
 
-</div>
-
----
-
-# 🎯 Current Focus
-
-```text
-Flutter Development       ████████████████████ 100%
-Firebase Integration      ██████████████████░░  90%
-REST API Integration      ██████████████████░░  90%
-UI/UX & Animations        █████████████████░░░  85%
-Flutter Web               ████████████████░░░░  80%
-Open Source               ███████████████░░░░░  75%
-```
-
----
-
-# 🚀 2026 Goals
-
-* 🔥 Build production-ready Flutter applications
-* 📦 Publish more Flutter packages
-* 🌐 Contribute to open source
-* 🧠 Improve advanced Flutter & Dart skills
-* ☁️ Explore scalable backend architectures
-* 🚀 Launch more real-world products
-
----
-
-# 💡 Developer Mindset
-
-> **Build → Test → Improve → Ship → Repeat 🚀**
-
-I believe good software is not just about writing code.
-
-It's about creating products that are:
-
-**Fast • Reliable • Scalable • Beautiful • Easy to Use**
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
+<br>
 
 <a href="https://github.com/thesarfaraj9794">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sarfaraj-alam-536b51291/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-050816?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
 </a>
 
 <a href="mailto:sarfarajbabu748@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-050816?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
 <a href="https://pub.dev/packages/taplatch">
-<img src="https://img.shields.io/badge/Pub.dev-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/TapLatch-050816?style=for-the-badge&logo=dart&logoColor=00E5FF"/>
 </a>
 
 </div>
@@ -289,18 +395,10 @@ It's about creating products that are:
 
 <div align="center">
 
-### 💙 Thanks for visiting my profile!
+### ✦ BUILD • CREATE • INNOVATE ✦
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,100:7c3aed&height=120&section=footer"/>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:111827,50:0B1228,100:050816&section=footer"/>
 
 </div>
-```
-
-### Bas ye 4 steps karo:
-
-1. GitHub → **`thesarfaraj9794` profile repo**
-2. `README.md` → ✏️ **Edit**
-3. Purana code **Ctrl+A → Delete**
-4. Upar wala code **Ctrl+V → Commit changes**
-
-**Important:** Ye README direct paste karne wala version hai. `hero.svg`, `stack.svg` etc. ki dependency nahi rakhi hai, isliye pehle basic profile direct render ho jayegi.
