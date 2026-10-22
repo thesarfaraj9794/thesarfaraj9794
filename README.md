@@ -1,404 +1,176 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,50:0B1228,100:111827&text=SARFARAZ%20ALAM&fontColor=00E5FF&fontSize=48&fontAlignY=40&desc=Flutter%20Developer%20%7C%20Mobile%20App%20Developer&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0D0221,50:7C3AED,100:F472B6&text=SARFARAZ%20ALAM&fontColor=FFFFFF&fontSize=60&fontAlignY=42&desc=Cross-Platform%20App%20Developer%20%E2%80%A2%20Android%20%E2%80%A2%20iOS%20%E2%80%A2%20Web&descAlignY=64&descSize=18&animation=twinkling&stroke=F59E0B&strokeWidth=1" width="100%"/>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=F472B6&center=true&vCenter=true&width=760&lines=I+build+apps+for+Android+%2B+iOS+%2B+Web;Flutter+%26+Dart+%E2%80%94+pixel-perfect+UI;React+Native+%2B+Next.js+%E2%80%94+every+screen;Firebase+%C2%B7+Supabase+%C2%B7+Cloudinary+backends;From+Postman+tests+to+live+on+GoDaddy+%F0%9F%9A%80" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Flutter+Developer+%F0%9F%9A%80;Android+%7C+iOS+%7C+Web+Developer;Building+Modern+Mobile+Experiences;Firebase+%7C+Supabase+%7C+REST+APIs;Turning+Ideas+Into+Real+Products" />
+<br/>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=thesarfaraj9794&label=PROFILE+VIEWS&color=00E5FF&style=for-the-badge"/>
+<a href="https://www.linkedin.com/in/sarfaraj-alam-536b51291/"><img src="https://img.shields.io/badge/LinkedIn-1A0B3B?style=for-the-badge&logo=linkedin&logoColor=F472B6"/></a>
+<a href="mailto:sarfarajbabu748@gmail.com"><img src="https://img.shields.io/badge/Hire%20Me-1A0B3B?style=for-the-badge&logo=gmail&logoColor=F59E0B"/></a>
+<a href="https://pub.dev/packages/taplatch"><img src="https://img.shields.io/badge/pub.dev-1A0B3B?style=for-the-badge&logo=dart&logoColor=A78BFA"/></a>
+<img src="https://komarev.com/ghpvc/?username=thesarfaraj9794&label=VISITORS&color=7C3AED&style=for-the-badge"/>
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+## 👨‍💻 About Me
+
+```dart
+class SarfarazAlam extends Developer {
+  final role      = 'Cross-Platform App Developer';
+  final location  = 'India 🇮🇳';
+  final platforms = ['Android', 'iOS', 'Web'];
+
+  final frontend  = ['Flutter', 'Dart', 'React Native', 'Next.js'];
+  final backend   = ['Firebase', 'Supabase', 'Cloud Functions', 'Cloudinary'];
+  final apis      = ['REST APIs', 'Postman Testing', 'Third-party Integrations'];
+  final shipping  = ['Firebase Hosting', 'GoDaddy Domains', 'Play Store', 'App Store'];
+
+  String get motto => 'Idea ➜ Design ➜ Code ➜ Test ➜ Live 🚀';
+}
+```
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+## ⚙️ How I Ship a Product
 
 <div align="center">
 
-## ✦ ABOUT ME
+| 🎨 **Design** | 💻 **Build** | 🧪 **Integrate & Test** | 🚀 **Deploy** |
+|:---:|:---:|:---:|:---:|
+| Figma · UI/UX | Flutter · React Native · Next.js | REST APIs · Postman | Firebase Hosting · GoDaddy |
 
 </div>
 
-<p align="center">
-  <b>Flutter Developer</b> passionate about creating modern, scalable and beautiful digital experiences.
-</p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-<p align="center">
-I build cross-platform applications for <b>Android, iOS & Web</b> with a strong focus on clean UI,
-smooth interactions, reliable backend integration and real-world usability.
-</p>
-
-<br>
+## 🧰 Tech Arsenal
 
 <div align="center">
 
-🌍 India &nbsp;&nbsp; • &nbsp;&nbsp;
-📱 Flutter Developer &nbsp;&nbsp; • &nbsp;&nbsp;
-🚀 Product Builder &nbsp;&nbsp; • &nbsp;&nbsp;
-💡 Open Source Enthusiast
+**📱 App Development**<br/><br/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,ts,js&theme=dark&perline=6"/>
+
+<br/><br/>
+
+**☁️ Backend & Cloud**<br/><br/>
+<img src="https://skillicons.dev/icons?i=firebase,supabase,nodejs,mongodb,mysql&theme=dark&perline=5"/>
+<br/>
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud%20Functions-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Firestore-FF6F00?style=for-the-badge&logo=firebase&logoColor=white"/>
+
+<br/><br/>
+
+**🔗 APIs, Testing & Hosting**<br/><br/>
+<img src="https://skillicons.dev/icons?i=postman,git,github,vercel&theme=dark&perline=4"/>
+<br/>
+<img src="https://img.shields.io/badge/REST%20APIs-7C3AED?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase%20Hosting-DD2C00?style=for-the-badge&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/GoDaddy-1BDBDB?style=for-the-badge&logo=godaddy&logoColor=black"/>
+
+<br/><br/>
+
+**📲 Platforms & Tools**<br/><br/>
+<img src="https://skillicons.dev/icons?i=androidstudio,apple,vscode,figma&theme=dark&perline=4"/>
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-<div align="center">
+## 🚀 Featured Projects
 
-## ✦ WHAT I DO
-
-</div>
-
-<table align="center">
+<table>
 <tr>
-<td align="center" width="25%">
+<td width="50%" valign="top">
 
-### 📱
-### Mobile Apps
+### 🏥 Restore Health Services
+**Healthcare Marketplace**
 
-Flutter applications for  
-Android & iOS with  
-modern responsive UI.
+Medicines, blood tests, doctor consultation and health services in one app.
 
-</td>
-
-<td align="center" width="25%">
-
-### 🎨
-### UI / UX
-
-Clean interfaces,  
-animations, Material 3  
-and responsive layouts.
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-7C3AED?style=flat-square)
 
 </td>
+<td width="50%" valign="top">
 
-<td align="center" width="25%">
+### 🚗 Sampark
+**QR Vehicle Communication**
 
-### ☁️
-### Backend
+Contact any vehicle owner by scanning a QR, without sharing personal numbers.
 
-Firebase, Supabase,  
-Firestore, Authentication  
-and cloud services.
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<td align="center" width="25%">
+### 🛣️ RoadPulse
+**Smart Road Safety Platform**
 
-### 🔗
-### API Integration
+Report and track potholes, speed breakers and road hazards on a live map.
 
-REST APIs, JSON,  
-notifications and  
-third-party services.
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
+![Dashboard](https://img.shields.io/badge/Dashboard-F472B6?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 BrainBoost
+**Offline Education App**
+
+Offline lessons and MCQ practice for students, no internet needed.
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Offline](https://img.shields.io/badge/Offline_First-F59E0B?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top" align="center">
+
+### 🔗 TapLatch — Open-Source Flutter Package
+Prevents accidental double-taps, with loading, success and cooldown states.
+
+<a href="https://pub.dev/packages/taplatch"><img src="https://img.shields.io/pub/v/taplatch?style=for-the-badge&logo=dart&color=7C3AED&label=pub.dev"/></a>
+<a href="https://pub.dev/packages/taplatch"><img src="https://img.shields.io/pub/likes/taplatch?style=for-the-badge&color=F472B6"/></a>
 
 </td>
 </tr>
 </table>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-## ✦ TECHNOLOGY STACK
+<img src="https://github-readme-stats.vercel.app/api?username=thesarfaraj9794&show_icons=true&hide_border=true&bg_color=0D0221&title_color=F472B6&icon_color=A78BFA&text_color=E9D5FF&ring_color=F59E0B&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesarfaraj9794&layout=compact&hide_border=true&bg_color=0D0221&title_color=F472B6&text_color=E9D5FF" height="170"/>
 
-### Mobile & Development
+<img src="https://streak-stats.demolab.com?user=thesarfaraj9794&hide_border=true&background=0D0221&ring=F472B6&fire=F59E0B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F472B6&sideLabels=C4B5FD&dates=A1A1C2&stroke=2E1065" width="70%"/>
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,vscode&theme=dark" />
-
-<br><br>
-
-### Backend & Database
-
-<img src="https://skillicons.dev/icons?i=firebase,supabase,mongodb,mysql&theme=dark" />
-
-<br><br>
-
-### Tools & Design
-
-<img src="https://skillicons.dev/icons?i=git,github,figma,postman,aws&theme=dark" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thesarfaraj9794&bg_color=0D0221&color=C4B5FD&line=F472B6&point=F59E0B&area=true&area_color=7C3AED&hide_border=true&radius=12" width="100%"/>
 
 </div>
 
----
-
 <div align="center">
 
-## ✦ FEATURED PROJECTS
+### 🤝 Let's build something together
 
-</div>
+Freelance app, startup MVP or full-time role — I'm ready.
 
-<table align="center">
+<a href="mailto:sarfarajbabu748@gmail.com"><img src="https://img.shields.io/badge/sarfarajbabu748@gmail.com-0D0221?style=for-the-badge&logo=gmail&logoColor=F472B6"/></a>
 
-<tr>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🧠 BrainBoost</h3>
-
-<p align="center">
-<b>Offline Education Application</b>
-</p>
-
-<p align="center">
-An educational Flutter application designed for students with offline learning, lessons and MCQ-based practice.
-</p>
-
-<p align="center">
-
-`Flutter` `Dart` `Offline`
-
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🏥 Restore Health Services</h3>
-
-<p align="center">
-<b>Healthcare Marketplace</b>
-</p>
-
-<p align="center">
-A healthcare platform connecting users with medicines, blood tests, doctor consultation and health services.
-</p>
-
-<p align="center">
-
-`Flutter` `Firebase` `Provider` `REST API`
-
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🚗 Sampark</h3>
-
-<p align="center">
-<b>QR Vehicle Communication</b>
-</p>
-
-<p align="center">
-A smart QR-based communication platform designed to help people contact vehicle owners while keeping personal information private.
-</p>
-
-<p align="center">
-
-`Flutter` `QR` `Supabase` `Firebase`
-
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🛣️ RoadPulse</h3>
-
-<p align="center">
-<b>Smart Road Safety Platform</b>
-</p>
-
-<p align="center">
-A road condition and safety platform for reporting potholes, speed breakers and other road hazards.
-</p>
-
-<p align="center">
-
-`Flutter` `Maps` `Location` `Dashboard`
-
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🔗 TapLatch</h3>
-
-<p align="center">
-<b>Flutter Package</b>
-</p>
-
-<p align="center">
-A lightweight Flutter package designed to prevent accidental repeated button taps with loading, success and cooldown states.
-</p>
-
-<p align="center">
-
-`Flutter` `Dart` `Package`
-
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">⚡ More Projects</h3>
-
-<p align="center">
-Always experimenting with new ideas, products and developer tools.
-</p>
-
-<p align="center">
-
-🚀 Build  
-<br>
-🧪 Experiment  
-<br>
-✨ Improve
-
-</p>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<div align="center">
-
-## ✦ GITHUB ACTIVITY
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=thesarfaraj9794&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=7C3AED&text_color=FFFFFF&rank_icon=github" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesarfaraj9794&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=FFFFFF" width="42%"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=thesarfaraj9794&theme=tokyonight&hide_border=true&background=050816&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF" width="70%"/>
-
-</div>
-
----
-
-<div align="center">
-
-## ✦ CONTRIBUTION JOURNEY
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thesarfaraj9794&bg_color=050816&color=00E5FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-## ✦ CURRENTLY FOCUSING ON
-
-</div>
-
-<table align="center">
-<tr>
-<td>
-
-🚀 Advanced Flutter Architecture
-
-</td>
-<td>
-
-🔥 Firebase & Cloud Integration
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-🌐 Flutter Web Applications
-
-</td>
-<td>
-
-📦 Open Source Packages
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-🎨 Premium UI/UX
-
-</td>
-<td>
-
-⚡ Performance Optimization
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## ✦ 2026 GOALS
-
-<br>
-
-🚀 Build production-ready applications  
-<br>
-📦 Publish useful Flutter packages  
-<br>
-🌎 Contribute to open-source projects  
-<br>
-🧠 Master advanced Flutter & Dart  
-<br>
-☁️ Build scalable cloud-based systems  
-<br>
-💡 Turn more ideas into real products
-
-</div>
-
----
-
-<div align="center">
-
-## ✦ CONNECT WITH ME
-
-<br>
-
-<a href="https://github.com/thesarfaraj9794">
-<img src="https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sarfaraj-alam-536b51291/">
-<img src="https://img.shields.io/badge/LinkedIn-050816?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
-</a>
-
-<a href="mailto:sarfarajbabu748@gmail.com">
-<img src="https://img.shields.io/badge/Email-050816?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
-
-<a href="https://pub.dev/packages/taplatch">
-<img src="https://img.shields.io/badge/TapLatch-050816?style=for-the-badge&logo=dart&logoColor=00E5FF"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ✦ BUILD • CREATE • INNOVATE ✦
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:111827,50:0B1228,100:050816&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:F472B6,50:7C3AED,100:0D0221&section=footer" width="100%"/>
 
 </div>
